@@ -5,6 +5,7 @@
 I'm Louis, a freetime programmer and fulltime Human from Germany.<br>
 I waste half my life on the internet working on a few projects and this is the place where you can find them.
 
+<h3 align="center">My Socials</h3>
 <p align="center">
  <a href="https://github.com/Entytaiment25/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
   <a href="https://twitter.com/entytaiment25"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
