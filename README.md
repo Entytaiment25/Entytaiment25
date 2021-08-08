@@ -2,7 +2,7 @@
   <a href=""><img src="Placeholder.svg" alt="logo" width="60%"></a>
 </p>
   
-I'm Louis, a freetime programmer and fulltime Human from Germany.
+I'm Louis, a freetime programmer and fulltime Human from Germany.<br>
 I waste half my life on the internet working on a few projects and this is the place where you can find them.
 
 <p align="center">
