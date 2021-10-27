@@ -2,8 +2,8 @@
 <!--   <a href=""><img src="Placeholder.svg" alt="logo" width="60%"></a> -->
 </p>
   
-<p> I'm Louis, a freetime programmer and fulltime Human from Germany.<br></p>
-<p> I waste half my life on the internet working on a few projects and this is the place where you can find them.</p>
+<p align="center"> I'm Louis, a freetime programmer and fulltime Human from Germany.<br></p>
+<p align="center"> I waste half my life on the internet working on a few projects and this is the place where you can find them.</p>
 
 <h3 align="center">My Socials</h3>
 <p align="center">
