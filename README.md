@@ -1,5 +1,5 @@
 <p align="center">
-  <a href=""><img src="Placeholder.svg" alt="logo" width="60%"></a>
+<!--   <a href=""><img src="Placeholder.svg" alt="logo" width="60%"></a> -->
 </p>
   
 I'm Louis, a freetime programmer and fulltime Human from Germany.<br>
