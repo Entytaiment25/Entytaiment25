@@ -22,9 +22,3 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
 </p>
-
-<h3 align="center">You have Money that you don't need? Send it here!</h3>
-<p align="center">
-  <img href="https://ko-fi.com/F1F25MANJ" src="https://ko-fi.com/img/githubbutton_sm.svg">
-  <img href="paypal.me/markuskinston" src="https://img.shields.io/badge/PayPal-3776AB?style=for-the-badge&logo=paypal&logoColor=white">
-</p>
