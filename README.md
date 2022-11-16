@@ -1,24 +1,24 @@
-<p align="center"><img width="100%" src="./welcome.gif" alt="welcome text" /></p>
+<p align="center"><img width="45%" src="https://media.discordapp.net/attachments/1014468471330983966/1042496962496307220/3f729274-c235-465f-8f79-6565885fac5c_rw_1920.png" alt="https://oritoor.com/" /></p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AD67&center=true&vCenter=true&width=600&lines=I'm+Enty%2C+a+programming+enthusiast+from+Germany.">
+</p>
 
-<p align="center">I'm Enty, a programming enthusiast from Germany.</p>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F25MANJ)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.io/)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/enty2go)
+<br>
+<picture align="center">
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Entytaiment25&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Entytaiment25&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Entytaiment25&show_icons=true" />
+</picture>
 
-## Skills
-
-<img width="20" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fseeklogo.com%2Fimages%2FJ%2Fjavascript-js-logo-2949701702-seeklogo.com.png&f=1&nofb=1" /> Javascript 
-
-<img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" /> Python
-
-<img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2017%2F07%2FHTML5_badge.png&f=1&nofb=1" /> HTML
-
-<img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmaxcdn.icons8.com%2FShare%2Ficon%2FLogos%2Fcss31600.png&f=1&nofb=1" /> CSS
-
-<img width="20" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FReact_logo_logotype_emblem.png&f=1&nofb=1" /> ReactJS
-
-<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" /> NodeJS
-
-<img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fplatform-user-uploads.s3.amazonaws.com%2Fblog%2Fcategory%2Flogo%2F60%2Fsql.png&f=1&nofb=1" /> SQL
-
-<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" /> Linux
-
-## How to reach me?
-Discord: Entytaiment25#8799
+<p align="left">
+  Image by https://oritoor.com/
+</p>
