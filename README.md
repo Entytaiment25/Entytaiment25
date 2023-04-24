@@ -1,24 +1,29 @@
-<p align="center"><img width="45%" src="https://media.discordapp.net/attachments/1014468471330983966/1042496962496307220/3f729274-c235-465f-8f79-6565885fac5c_rw_1920.png" alt="https://oritoor.com/" /></p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AD67&center=true&vCenter=true&width=600&lines=I'm+Enty%2C+a+programming+enthusiast+from+Germany.">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A142&center=true&width=435&lines=Favorite+Animal+%F0%9F%A6%86;Hello+there%F0%9F%91%8B;don't+forget+to%E2%AD%90;Life%2C+Laugh%2C+Life%2C+Depression%F0%9F%98%82;Meow%F0%9F%98%B8" alt="Typing SVG" /></a>
 </p>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F25MANJ)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.io/)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/enty2go)
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-Lua-darkblue?style=flat-square&logo=lua">
+  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
+  <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
+  <a href="#"><img src="https://img.shields.io/badge/-TypeScript-lightblue?style=flat-square&logo=typescript">
+  <a href="#"><img src="https://img.shields.io/badge/-Csharp-darkgreen?style=flat-square&logo=csharp">
+  <a href="#"><img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python">
+<p>
 <br>
-<picture align="center">
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Entytaiment25&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Entytaiment25&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Entytaiment25&show_icons=true" />
-</picture>
 
-<p align="left">
-  Image by https://oritoor.com/
+<p align="center">
+Hello there!👋 My name is enty, and I am an enthusiastic coder with a passion for helping others and advocating for Free and Open Source Software (FOSS). As an IT specialist in System Integration, I am constantly seeking to expand my skillset. Currently, I am focused on learning low-level languages and ethical hacking techniques.
+
+My ultimate objective is to contribute to the tech community by sharing my knowledge and creating impactful tools. Thank you for visiting my GitHub profile, and please feel free to submit pull requests or share ideas.
 </p>
+
+<br>
+<br>
+
+<p align="center">
+  <img width="600" src="https://stats.hyochan.dev/api/github-stats-advanced?login=Entytaiment25" />
+</p>
+
+<br>
