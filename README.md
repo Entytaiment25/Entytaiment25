@@ -1,8 +1,4 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A142&center=true&width=435&lines=Favorite+Animal+%F0%9F%A6%86;Hello+there%F0%9F%91%8B;don't+forget+to%E2%AD%90;Life%2C+Laugh%2C+Life%2C+Depression%F0%9F%98%82;Meow%F0%9F%98%B8" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-Lua-darkblue?style=flat-square&logo=lua">
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
