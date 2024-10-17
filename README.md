@@ -10,16 +10,8 @@
 <br>
 
 <p align="center">
-Hello there!👋 My name is enty, and I am an enthusiastic coder with a passion for helping others and advocating for Free and Open Source Software (FOSS). As an IT specialist in System Integration, I am constantly seeking to expand my skillset. Currently, I am focused on learning low-level languages and ethical hacking techniques.
+Hello there! 👋 <br> My name is enty, and I am an enthusiastic coder with a passion for helping others and advocating for Free and Open Source Software (FOSS). As an IT specialist in System Integration, I am constantly seeking to expand my skillset. Currently, I am focused on learning low-level languages and ethical hacking techniques.
 
-My ultimate objective is to contribute to the tech community by sharing my knowledge and creating impactful tools. Thank you for visiting my GitHub profile, and please feel free to submit pull requests or share ideas.
+My ultimate objective is to contribute to the tech community by sharing my knowledge and creating impactful tools.
+Thank you for visiting my GitHub profile, and please feel free to submit pull requests or share ideas.
 </p>
-
-<br>
-<br>
-
-<p align="center">
-  <img width="600" src="https://stats.hyochan.dev/api/github-stats-advanced?login=Entytaiment25" />
-</p>
-
-<br>
